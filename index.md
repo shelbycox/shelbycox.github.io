@@ -22,7 +22,7 @@ class: home
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2504B
+* East Hall 3080
 </div>
 
 </div>

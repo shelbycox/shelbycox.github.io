@@ -1,7 +1,34 @@
-- title: 
-  location: 
-  role: 
+- title: Math 116 (Calculus II)
+  location: UMich, Ann Arbor
+  role: Instructor of Record
   url: 
-  year: 
+  year: Fall 2021, Winter 2020
+  students: 
+  description:
+
+- title: Math 115 (Calculus I)
+  location: UMich, Ann Arbor
+  role: Instructor of Record
+  url: 
+  year: Fall 2019
   students: 
   description: 
+
+- title: Math 300 (Fundamental Concepts of Mathematics)
+  location: UMass, Amherst
+  role: Teaching Assistant
+  url: 
+  year: Fall 2016 - Spring 2018
+  description:
+
+- title: Math 104 (Pre-Calculus)
+  location: UMass, Amherst
+  role: Teaching Assistant
+  url:
+  year: Spring 2016
+
+- title: Math 127 (Calculus I)
+  location: UMass, Amherst
+  role: Teaching Assistant
+  url: 
+  year: Fall 2015

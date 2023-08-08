@@ -9,8 +9,8 @@ class: pubs
 # Publications
 
 <div id="facets" class="hidden">
-  <div class="facet" id="venue_tags">
-    <strong>Venue</strong>
+  <div class="facet" id="journal_tags">
+    <strong>Journal</strong>
     <ul></ul>
   </div>
   <div class="facet" id="authors">
@@ -21,12 +21,8 @@ class: pubs
     <strong>Tag</strong>
     <ul></ul>
   </div>
-  <div class="facet" id="type">
-    <strong>Type</strong>
-    <ul></ul>
-  </div>
-  <div class="facet" id="awards">
-    <strong>Award</strong>
+  <div class="facet" id="status">
+    <strong>Status</strong>
     <ul></ul>
   </div>
 

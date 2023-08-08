@@ -1,4 +1,42 @@
-- name: 
-  years: 
+- name: Rackham Travel Grant
+  years: 2023
   sponsor: 
+  url: 
+  description: 
+- name: NSF Graduate Research Fellowship
+  years: 2018-2023
+  sponsor: 
+  description:
+- name: M.K. Bennett Geometry Award
+  years: Fall 2016
+  sponsor: Math Department, UMass Amherst
+  description: 
+- name: Monahan Student Leadership Award
+  years: 2017
+  sponsor: Math Department, UMass Amherst
+  description: 
+- name: Leon Emory Lincoln and Robert Bradley Lincoln Scholarship
+  year: 2017
+  sponsor: Math Department, UMass Amherst
+  description: 
+- name: William Field Alumni Scholarship
+  year: 2017-2018
+  sponsor: UMass Amherst
+  description: 
+- name: Honorable Mention, Barry Goldwater Scholarship
+  year: 2017
+  sponsor: 
+  description:
+  url:
+- name: UMich International Center Grant
+  year: 2020
+  sponsor: UMich International Center
+  description: 
+- name: Luther Claborn Award
+  year: 2023
+  sponsor: UMich Math Department
+  description: 
+- name: SIAM Student Travel Grant
+  year: 2023
+  sponsor: SIAM
   description: 

@@ -1,8 +1,9 @@
 /* TEAM */
-	Author/Theme: Dominik Moritz
+	Author/Theme: Shelby Cox
+	Original Design: Dominik Moritz
 	Twitter: @domoritz
 	Mastodon: @dom@vis.social
-	From: Pittsburgh, PA
+	From: Ann Arbor, MI
 
 /* SITE */
 	Language: English / German

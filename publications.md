@@ -21,6 +21,10 @@ class: pubs
     <strong>Tag</strong>
     <ul></ul>
   </div>
+  <div class="facet" id="type">
+    <strong>Type</strong>
+    <ul></ul>
+  </div>
   <div class="facet" id="status">
     <strong>Status</strong>
     <ul></ul>

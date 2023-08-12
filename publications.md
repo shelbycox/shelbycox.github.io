@@ -10,7 +10,7 @@ class: pubs
 
 <div id="facets" class="hidden">
   <div class="facet" id="venue_tags">
-    <strong>Venue</strong>
+    <strong>Journal</strong>
     <ul></ul>
   </div>
   <div class="facet" id="authors">

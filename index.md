@@ -9,15 +9,15 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-
+  I am a Ph.D. candidate at the University of Michigan working with <a href="https://websites.umich.edu/~speyer">David Speyer</a>. I work in algebraic statistics and use tools from tropical geometry, algebraic geometry, commutative algebra, and combinatorics. I am particularly interested in problems in phylogenetics. I received my B.S. in mathematics and B.A. in linguistics from UMass Amherst, where I was advised by <a href="https://people.umass.edu/~tevelev">Jenia Tevelev</a>.
 </div>
 
 <div class="me" markdown="1">
 <picture>
   <source srcset='/images/' type='image/webp' />
   <img
-    src='/images/'
-    alt=''>
+    src='/images/shelby'
+    alt='photo of Shelby'>
 </picture>
 
 {:.no-list}
@@ -51,7 +51,8 @@ class: home
       <a href="{{ pub.pdf }}" class="publication">
         <strong>{{ pub.title }}</strong>
         <span class="authors">{% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>.
-        <i>{% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.year }}</i>.
+        <br>
+        <i>{% if pub.status %}({{ pub.status }}){% endif %} {% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.year }}</i>.
         {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}
       </a>
     {% endif %}

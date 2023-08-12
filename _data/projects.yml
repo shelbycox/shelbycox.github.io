@@ -1,14 +1,32 @@
-- title: 
-  url: 
-  video: 
+- title: Tropical Phylogenetics
+  url: /tropical_phylogenetics
   image: 
-  description: 
-  highlight: 
+  description: Tropical line segments in tree space.
+  highlight: true
 
-- title: 
-  url: 
+- title: Brownian Motion Tree Models
+  url: /brownian_motion
   code: 
   demo: 
   paper: 
   image: 
+  description: ML degree of Brownian Motion Tree Models.
+  highlight: true
+
+- title: Sunlet Networks
+  url: /sunlet_networks
+  image: 
   description: 
+  highlight: 
+
+- title: Homaloidal Polynomials
+  url: /homaloidal
+  image: 
+  description: Models with ML degree one.
+  highlight: 
+
+- title: Valuations in M2
+  url: /valuations
+  image: 
+  description: A Macaulay2 package for valuations.
+  highlight: 

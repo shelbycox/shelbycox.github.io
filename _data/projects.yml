@@ -1,32 +1,37 @@
 - title: Tropical Phylogenetics
-  url: /tropical_phylogenetics
-  image: 
+  url: /projects/#tropical_phylogenetics
+  image: fw-cayley-trick.png
   description: Tropical line segments in tree space.
   highlight: true
+  description-extended: under construction
 
-- title: Brownian Motion Tree Models
-  url: /brownian_motion
+- title: Likelihood Inference for Gaussian Models
+  url: /projects/#brownian_motion
   code: 
   demo: 
   paper: 
-  image: 
+  image: brownian-motion.png
   description: ML degree of Brownian Motion Tree Models.
   highlight: true
+  description-extended: under construction
 
 - title: Sunlet Networks
-  url: /sunlet_networks
+  url: /projects/#sunlet_networks
   image: 
   description: 
   highlight: 
+  description-extended: under construction
 
 - title: Homaloidal Polynomials
-  url: /homaloidal
+  url: /projects/#homaloidal
   image: 
   description: Models with ML degree one.
   highlight: 
+  description-extended: under construction
 
 - title: Valuations in M2
-  url: /valuations
+  url: /projects/#valuations
   image: 
   description: A Macaulay2 package for valuations.
   highlight: 
+  description-extended: under construction

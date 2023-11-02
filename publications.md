@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Papers
 class: pubs
 ---
 
@@ -32,6 +32,7 @@ class: pubs
 
 </div>
 
+
 <div class="p1 db">
   <input id="ft-search" type="search" placeholder="Search papers..." />
 </div>
@@ -44,6 +45,9 @@ class: pubs
 <p id="clear-filters" class="hidden">
   <i class="fas fa-times-circle" aria-hidden="true"></i> Clear all filters. <span id="count_hidden">X</span> of <span id="count_total">X</span> publications are hidden by the filters.
 </p>
+
+<a href="https://arxiv.org/a/cox_s_1.html"><i class="fab fa-scroll" aria-hidden="true"></i> ArXiv</a>
+<a href="https://scholar.google.com/citations?user=dFznJ9gAAAAJ&hl=en&oi=ao"><i class="fab fa-google" aria-hidden="true"></i> Google Scholar</a>
 
 {% assign pubyears = site.publications | group_by:"year"  %}
 {% assign sorted_pubyears = pubyears | reverse %}

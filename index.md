@@ -14,9 +14,9 @@ class: home
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/' type='image/webp' />
+  <source srcset='/images/shelby-photo.jpeg' type='image/webp' />
   <img
-    src='/images/shelby'
+    src='/shelby-photo.jpeg'
     alt='photo of Shelby'>
 </picture>
 
@@ -27,22 +27,9 @@ class: home
 
 </div>
 
-## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
-
-<div class="featured-projects">
-  {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
-  {% for project in sorted_projects %}
-    {% if project.highlight %}
-      {% include project.html project=project %}
-    {% endif %}
-  {% endfor %}
-</div>
-<a href="{{ "/projects/" | relative_url }}" class="button">
-  <i class="fas fa-chevron-circle-right"></i>
-  Show More Projects
-</a>
-
-## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
+## Recent <a href="{{ "/publications/" | relative_url }}">Papers</a>
+<a href="https://arxiv.org/a/cox_s_1.html"><i class="fab fa-scroll" aria-hidden="true"></i> ArXiv</a>
+<a href="https://scholar.google.com/citations?user=dFznJ9gAAAAJ&hl=en&oi=ao"><i class="fab fa-google" aria-hidden="true"></i> Google Scholar</a>
 
 <div class="featured-publications">
   {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
@@ -61,6 +48,21 @@ class: home
 
 <a href="{{ "/publications/" | relative_url }}" class="button">
   <i class="fas fa-chevron-circle-right"></i>
-  Show All Publications
+  Show All Papers
+</a>
+
+## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
+
+<div class="featured-projects">
+  {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
+  {% for project in sorted_projects %}
+    {% if project.highlight %}
+      {% include project.html project=project %}
+    {% endif %}
+  {% endfor %}
+</div>
+<a href="{{ "/projects/" | relative_url }}" class="button">
+  <i class="fas fa-chevron-circle-right"></i>
+  Show More Projects
 </a>
 

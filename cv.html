@@ -10,6 +10,10 @@ title: CV
 
 <small class="live-link">Last updated in <time datetime="{{ site.time }}">{{ site.time | date: '%B %Y'}}</time>. Get the latest version at <a href="{{ '/cv' | absolute_url }}">www.shelbycox.github.io/cv</a>.</small>
 
+<a href="/assets/cox_cv_10_31.pdf">
+  <i class="far fa-file-pdf" aria-hidden="true"></i> CV
+</a>
+
 <div class="header-columns">
   <div>
     <p>
@@ -25,11 +29,11 @@ title: CV
 </div>
 
 
-<h2>Research Area</h2>
+<!-- <h2>Research Area</h2>
 
 <p>
 
-</p>
+</p> -->
 
 
 <h2>Education</h2>
@@ -50,7 +54,7 @@ title: CV
 {% endfor %}
 
 
-<h2>Notable Awards</h2>
+<h2>Awards and Grants</h2>
 
 {% for award in site.data.awards %}
 <article>
@@ -178,7 +182,7 @@ title: CV
 {% endfor %}
 
 
-<h2>Talks  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
+<!-- <h2>Talks  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
@@ -193,6 +197,6 @@ title: CV
     </div>
   {% endfor %}
 </article>
-{% endfor %}
+{% endfor %} -->
 
 </section>

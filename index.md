@@ -10,6 +10,8 @@ class: home
 
 <div class="intro" markdown="1">
   I am a Ph.D. candidate at the University of Michigan working with <a href="https://websites.umich.edu/~speyer">David Speyer</a>. I work in algebraic statistics and use tools from tropical geometry, algebraic geometry, commutative algebra, and combinatorics. I am particularly interested in problems in phylogenetics. I received my B.S. in mathematics and B.A. in linguistics from UMass Amherst, where I was advised by <a href="https://people.umass.edu/~tevelev">Jenia Tevelev</a>.
+
+  Here is my <a href="/assets/cox_cv_10_31.pdf">CV</a>.
 </div>
 
 <div class="me" markdown="1">

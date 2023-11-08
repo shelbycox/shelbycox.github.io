@@ -2,6 +2,7 @@
 layout: page
 title: "Home"
 class: home
+mathjax: true
 ---
 
 # Hi, I'm Shelby Cox.

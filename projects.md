@@ -3,6 +3,7 @@ layout: page
 permalink: /projects/
 title: Projects
 class: projects
+mathjax: true
 ---
 
 {:.hidden}

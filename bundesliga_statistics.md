@@ -20,12 +20,12 @@ mathjax: true
     <a> Los geht's! </a>
 </div> -->
 
-<a href="{{ "/bundesliga/" | relative_url }}" class="button" style="float: left;">
+<a href="{{ "/bundesliga" | relative_url }}" class="button" style="float: left;">
   <i class="fas fa-chevron-circle-left"></i>
   Einleitung
 </a>
 
-<a href="{{ "/erste_modelle/" | relative_url }}" class="button" style="float: right;">
+<a href="{{ "/erste_modelle" | relative_url }}" class="button" style="float: right;">
   <i class="fas fa-chevron-circle-right"></i>
   Erste Modele
 </a>

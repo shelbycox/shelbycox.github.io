@@ -129,7 +129,7 @@ Meine Ziel mit dieser Endproject ist das Tippspiel *mit Mathematik* zu **gewinne
     <a> Los geht's! </a>
 </div> -->
 
-<a href="{{ "/erste_modelle/" | relative_url }}" class="button" style="float: right;">
+<a href="{{ "/erste_modelle" | relative_url }}" class="button" style="float: right;">
   <i class="fas fa-chevron-circle-right"></i>
   Los geht's!
 </a>

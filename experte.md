@@ -154,12 +154,12 @@ Dieses Modell ist noch relativ einfach und besser als unsere ersten Modellen -- 
 Können wir mit mehr Daten ein besseres Modell bauen?
 Finden wir heraus!
 
-<a href="{{ "/erste_modelle/" | relative_url }}" class="button" style="float: left;">
+<a href="{{ "/erste_modelle" | relative_url }}" class="button" style="float: left;">
   <i class="fas fa-chevron-circle-left"></i>
   Erste Modelle
 </a>
 
-<a href="{{ "/linear_regression/" | relative_url }}" class="button" style="float: right;">
+<a href="{{ "/linear_regression" | relative_url }}" class="button" style="float: right;">
   <i class="fas fa-chevron-circle-right"></i>
   Kürzliche Leistungen
 </a>

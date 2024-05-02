@@ -158,12 +158,12 @@ Der Tordifferenztipp ist $-2$, dafür tippt dieses Modell für Heimtore $1$ und 
 
 Dieses Modell ist toll! Im Durchschnitt bekam es $5,5$ Punkte pro Tipp und es gewann das Tippspiel mit 687 Punkte.
 
-<a href="{{ "/experte/" | relative_url }}" class="button" style="float: left;">
+<a href="{{ "/experte" | relative_url }}" class="button" style="float: left;">
   <i class="fas fa-chevron-circle-left"></i>
   Fragen die Fachleute
 </a>
 
-<a href="{{ "/ende/" | relative_url }}" class="button" style="float: right;">
+<a href="{{ "/ende" | relative_url }}" class="button" style="float: right;">
   <i class="fas fa-chevron-circle-right"></i>
   Weitere Ideen
 </a>

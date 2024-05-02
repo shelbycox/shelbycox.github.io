@@ -142,7 +142,7 @@ Und auch, wie können wir *Motivation* mit Zahlen beschreiben?
 
 Ich benutzte diese <a href="https://github.com/thomascamminady/AllBundesligaGamesEver?tab=License-1-ov-file">Software</a> um die Daten zu bekommen. Alle von den Daten hier kommt aus <a href="kicker.de">kicker.de</a>.
 
-<a href="{{ "/linear_regression/" | relative_url }}" class="button" style="float: left;">
+<a href="{{ "/linear_regression" | relative_url }}" class="button" style="float: left;">
   <i class="fas fa-chevron-circle-left"></i>
   Kürzliche Leistungen
 </a>

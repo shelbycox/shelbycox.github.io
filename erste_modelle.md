@@ -53,77 +53,92 @@ Nach dem 30. Spieltag liegt dieses Modelle an der 13. Stelle -- besser als zwei 
 
 <table border="1" class="dataframe rendered_html" align="center">
   <thead>
-    <tr style="text-align: left;">
+    <tr style="text-align: right;">
       <th></th>
       <th>Team</th>
       <th>Points</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th>0</th>
-      <td>Bayer 04 Leverkusen</td>
-      <td>287</td>
-    </tr>
+    <!-- <tr>
+      <th></th>
+      <td>Kürzliche Leistungen</td>
+      <td>402</td>
+    </tr> -->
     <tr>
       <th>1</th>
-      <td>FC Augsburg</td>
-      <td>285</td>
+      <td>Hertha BSC Berlin</td>
+      <td>305</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>Hertha BSC Berlin</td>
-      <td>285</td>
+      <td>VfL Woflsburg</td>
+      <td>304</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>VfL Woflsburg</td>
-      <td>274</td>
+      <td>FC Augsburg</td>
+      <td>302</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Bayern München</td>
-      <td>271</td>
+      <td>298</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>SC Freiburg</td>
-      <td>270</td>
+      <td>Bayer 04 Leverkusen</td>
+      <td>287</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Eintracht Frankfurt</td>
-      <td>266</td>
+      <td>SC Freiburg</td>
+      <td>287</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>Borussia Mönchengladbach</td>
-      <td>261</td>
+      <td>Eintracht Frankfurt</td>
+      <td>284</td>
     </tr>
     <tr>
       <th>8</th>
       <td>1. FC Heidenheim</td>
-      <td>256</td>
+      <td>275</td>
     </tr>
     <tr>
       <th>9</th>
-      <td>1. FC Union Berlin</td>
-      <td>246</td>
+      <td>Borussia Mönchengladbach</td>
+      <td>274</td>
     </tr>
+    <!-- <tr>
+      <th></th>
+      <td>Fragen die Fachleute</td>
+      <td>268</td>
+    </tr> -->
     <tr>
       <th>10</th>
-      <td>VfL Bochum</td>
-      <td>246</td>
+      <td>1. FC Union Berlin</td>
+      <td>262</td>
     </tr>
     <tr>
       <th>11</th>
-      <td>RB Leipzig <b>(ich)</b></td>
-      <td>235</td>
+      <td>RB Leipzig</td>
+      <td>257</td>
     </tr>
     <tr>
       <th>12</th>
+      <td>VfL Bochum</td>
+      <td>254</td>
+    </tr>
+    <tr>
+      <th>13</th>
       <td>BVB Borussia Dortmund</td>
-      <td>235</td>
+      <td>243</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>1. FC Köln</td>
+      <td>238</td>
     </tr>
     <tr style="background: orange">
       <th></th>
@@ -131,19 +146,14 @@ Nach dem 30. Spieltag liegt dieses Modelle an der 13. Stelle -- besser als zwei 
       <td>229</td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>15</th>
       <td>VfB Stuttgart</td>
-      <td>219</td>
-    </tr>
-    <tr>
-      <th>14</th>
-      <td>1. FC Köln</td>
-      <td>209</td>
+      <td>227</td>
     </tr>
     <tr style="background: orange">
       <th></th>
       <td>1:1 Unentschieden</td>
-      <td>190</td>
+      <td>204</td>
     </tr>
   </tbody>
 </table>

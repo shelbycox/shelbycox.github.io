@@ -156,7 +156,7 @@ Dieses Modell ist einfach aber nicht so gut.
 Es ist nicht so liecht den Tippspiel zu gewinnen!
 
 
-<a href="{{ "/Bundesliga" | relative_url }}" class="button" style="float: left;">
+<a href="{{ "/bundesliga" | relative_url }}" class="button" style="float: left;">
   <i class="fas fa-chevron-circle-left"></i>
   Einleitung
 </a>

@@ -10,7 +10,7 @@ mathjax: true
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-  I am a Ph.D. candidate at the University of Michigan working with <a href="https://websites.umich.edu/~speyer">David Speyer</a>. I work in algebraic statistics and use tools from tropical geometry, algebraic geometry, commutative algebra, and combinatorics. I am particularly interested in problems in phylogenetics. I received my B.S. in mathematics and B.A. in linguistics from UMass Amherst, where I was advised by <a href="https://people.umass.edu/~tevelev">Jenia Tevelev</a>.
+  I am a postdoc in the <a href="https://www.mis.mpg.de/nonlinear-algebra">Non-Linear Algebra Group at the Max Planck Institute for Mathematics in the Sciences</a>. I completed my Ph.D. at the University of Michigan with <a href="https://websites.umich.edu/~speyer">David Speyer</a> in May 2024. I work in algebraic statistics and use tools from tropical geometry, algebraic geometry, commutative algebra, and combinatorics. I am particularly interested in problems in phylogenetics. I received my B.S. in mathematics and B.A. in linguistics from UMass Amherst, where I was advised by <a href="https://people.umass.edu/~tevelev">Jenia Tevelev</a>.
 
   Here is my <a href="/assets/cox_cv.pdf">CV</a>.
 </div>
@@ -25,7 +25,7 @@ mathjax: true
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* East Hall 3080
+* F3 04
 </div>
 
 </div>

@@ -17,7 +17,7 @@ mathjax: true
 
   Here is my <a href="/assets/cox_cv.pdf">CV</a>.
 
-  I am organizing a mini-symposium on Phylogenetic Networks at SIAM-AG 2025 together with Max Hill, Annachiara Korchmaros, and Danai Deligeorgaki. See <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84216">here</a> for more details.
+  At SIAM-AG 2025 mini-symposium on Phylogenetic Networks together with Max Hill, Annachiara Korchmaros, and Danai Deligeorgaki. See <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84216">here</a> for more details.
 </div>
 
 <div class="me" markdown="1">

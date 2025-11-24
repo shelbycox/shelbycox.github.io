@@ -15,7 +15,7 @@ mathjax: true
   
   I completed my Ph.D. at the University of Michigan with <a href="https://websites.umich.edu/~speyer">David Speyer</a> in May 2024. I received my B.S. in mathematics and B.A. in linguistics from UMass Amherst, where I was advised by <a href="https://people.umass.edu/~tevelev">Jenia Tevelev</a>.
 
-  Here is my <a href="/assets/cox_cv_21-10-25.pdf">CV (updated October 21, 2025)</a>.
+  Here is my <a href="/assets/CV_24112025.pdf">CV (updated November 24, 2025)</a>.
 
   At SIAM-AG 2025 I organized a mini-symposium on Phylogenetic Networks together with Max Hill, Annachiara Korchmaros, and Danai Deligeorgaki. See <a href="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84216">here</a> for more details.
 </div>
